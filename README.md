@@ -11,7 +11,7 @@ _Mentor at https://www.hyperiondev.com/ for all my projects onsite is Hishaam an
 
 ### **2. Capstone folder II**
 #### Complulsory Task
-* Extend the program that you have written in previous Capstone Projects
+* Extend the program that you have written in previous Capstone Projects and JAVADOC
 
 ### **3. Capstone folder II**
 * is a py.game that we need to create in python
