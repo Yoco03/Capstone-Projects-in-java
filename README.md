@@ -10,7 +10,7 @@ _Mentor at https://www.hyperiondev.com/ for all my projects onsite is Hishaam an
 * is Object-Oriented Programming and will be extending this Capstone Project in later Capstone projects
 
 ### **2. Capstone folder II**
-#### Complulsory Task
+#### Task 24 ProMan test
 * Extend the program that you have written in previous Capstone Projects and JAVADOC
 
 ### **3. Capstone folder II**
